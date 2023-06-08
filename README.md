@@ -6,4 +6,4 @@ In the world of Android development, staying vigilant about **code quality** is 
 
 **Detekt** enables developers to analyze their codebase, identify potential issues, and optimize their projects for better performance. By leveraging Detekt, you can gain valuable insights to improve the quality and maintainability of their Android applications. In this article, we will explore the capabilities of Detekt and learn how it can significantly enhance our development process.
 
-Check out my [post on Medium here](https://breakdance.github.io/breakdance/) to see how to implement and use that amazing library.
+Check out my [post on Medium here](https://medium.com/@MariaLuiza-CS/how-analyze-your-code-with-detekt-37be6c9c9105) to see how to implement and use that amazing library.
